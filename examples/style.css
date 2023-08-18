@@ -1,0 +1,61 @@
+body{
+	
+background-color:#171717;
+}
+
+.myform{
+background-color: #444444;
+height:350px;
+width:378px;
+margin:120px auto;
+padding:25px;
+border-radius:5px;
+}
+
+
+
+.header{
+	width:85%;
+	height:20%;
+	padding:5.3%;
+	font-size: 15px;
+	margin:-50px 2% 30px 2%;
+	background-image: linear-gradient(#00cc00,#009933,#009900,#00e600);
+	color:white;
+	border-radius:5px;
+	text-align:center;
+	font-family:Arial;
+}
+
+
+.myform input[type="text"],
+
+.myform input[type="password"]{
+	width:382px;
+	color:white;
+	padding:10px;
+	font-size:20px;
+	//border:0px 0px 1px 0px solid;
+	border: 0;
+	outline:0;
+	border-bottom: 1px solid white;
+	border-radius:0px;
+	background-color:#444444;
+	}
+.myform input[type="submit"]{
+	color:white;
+		margin:30px auto;
+
+	width:120px;
+   font-style:bold;
+background-image: linear-gradient(#00cc00,#009933,#009900,#00e600);
+	padding:10px;
+	border:5px;
+	font-size: 15px;
+	border-radius:5px;
+}
+
+.myform checkbox
+{
+color:white;	
+}
